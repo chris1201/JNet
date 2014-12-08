@@ -1,5 +1,5 @@
 [convolutional]
-batch=128
+batch=256
 height=256
 width=256
 channels=3
